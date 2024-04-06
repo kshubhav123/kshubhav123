@@ -32,6 +32,22 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 
 
 
+👩‍💻 I'm currently working on improving my React.js skills by building responsive and interactive user interfaces.
+
+🧠 I'm currently learning how to utilize Tailwind CSS to streamline my frontend development workflow and create more efficient and maintainable CSS styles.
+
+👯‍♀️ I'm looking to collaborate on open-source projects related to web development, particularly those involving React.js and frontend design.
+
+🤔 I'm looking for help with optimizing performance and accessibility in web applications, as well as staying up-to-date with the latest frontend development trends and best practices.
+
+💬 Ask me about my experience in building responsive websites, implementing user interface components with React.js, or troubleshooting CSS layout issues.
+
+📫 You can reach me through email at kshubhav8@gmail.com or connect with me on LinkedIn {[shubhav](https://www.linkedin.com/in/shubhav-kumar-936b4a1a4/)} to discuss frontend development opportunities or collaboration opportunities.
+
+⚡️ Fun fact: ⚡️ Fun fact: I'm passionate about both mobile and web frontend development
+
+
+
 
 
 
