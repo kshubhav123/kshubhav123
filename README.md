@@ -1,4 +1,4 @@
-# Hi 👋, I'm SHUBHAV KUMAR!
+# Hi 👋, I'm SHuBHaV!
 
 Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and creating amazing things. I'm constantly exploring new technologies and pushing the boundaries of what's possible. With a strong background in CS, I strive to make a positive impact on the world through innovative and creative solutions.
 
@@ -27,31 +27,30 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 
 ![vscode](https://github.com/divyam751/divyam751/assets/125983433/2d08fdb7-9c00-45cf-bba7-b81c0d45e9a9)
 ![postman](https://github.com/divyam751/divyam751/assets/125983433/bbec912b-0185-4229-a583-144fb8631279)
-![Canva Badge](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white)
-![figma-#F24E1E](https://github.com/divyam751/test/assets/125983433/3e08a00f-e876-4af9-8c18-5d607a3fed31)
-![Netlify](https://github.com/divyam751/divyam751/assets/125983433/070ecf16-65fe-4584-895e-264c141e3cb8)
 ![Vercel](https://github.com/divyam751/divyam751/assets/125983433/3356048a-a66f-49be-90dd-4dfcf99d8866)
+![Netlify](https://github.com/divyam751/divyam751/assets/125983433/070ecf16-65fe-4584-895e-264c141e3cb8)
+![Canva Badge](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white)
 ![github](https://github.com/divyam751/divyam751/assets/125983433/a2767064-34d4-4f63-ba38-d2a464a91759)
+![figma-#F24E1E](https://github.com/divyam751/test/assets/125983433/3e08a00f-e876-4af9-8c18-5d607a3fed31)
 
 
 📱 **Social Media:**
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/verma_shubhav/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhav-kumar-936b4a1a4/) ![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)
 
+👩‍💻 I'm currently working on improving my React.js skills by building responsive and interactive user interfaces. 
 
-<sub>👩‍💻 I'm currently working on improving my React.js skills by building responsive and interactive user interfaces. </sub>
+🧠 I'm currently learning how to utilize Tailwind CSS to streamline my frontend development workflow and create more efficient and maintainable CSS styles.
 
-<sub>🧠 I'm currently learning how to utilize Tailwind CSS to streamline my frontend development workflow and create more efficient and maintainable CSS styles.</sub>
+👯‍♀️ I'm looking to collaborate on open-source projects related to web development, particularly those involving React.js and frontend design.
 
-<sub>👯‍♀️ I'm looking to collaborate on open-source projects related to web development, particularly those involving React.js and frontend design.</sub>
+🤔 I'm looking for help with optimizing performance and accessibility in web applications, as well as staying up-to-date with the latest frontend development trends and best practices.
 
-<sub>🤔 I'm looking for help with optimizing performance and accessibility in web applications, as well as staying up-to-date with the latest frontend development trends and best practices.</sub>
+💬 Ask me about my experience in building responsive websites, implementing user interface components with React.js, or troubleshooting CSS layout issues.
 
-<sub>💬 Ask me about my experience in building responsive websites, implementing user interface components with React.js, or troubleshooting CSS layout issues.</sub>
+📫 You can reach me through email at kshubhav8@gmail.com or connect with me on LinkedIn {[shubhav](https://www.linkedin.com/in/shubhav-kumar-936b4a1a4/)} to discuss frontend development opportunities or collaboration opportunities.
 
-<sub>📫 You can reach me through email at kshubhav8@gmail.com or connect with me on LinkedIn {[shubhav](https://www.linkedin.com/in/shubhav-kumar-936b4a1a4/)} to discuss frontend development opportunities or collaboration opportunities.</sub>
-
-<sub>⚡️ Fun fact: ⚡️ Fun fact: I'm passionate about both mobile and web frontend development</sub>
+⚡️ Fun fact: I'm passionate about both mobile and web frontend development.
 
 
 
