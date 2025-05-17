@@ -11,6 +11,7 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 ![css3-#1572B6](https://github.com/divyam751/test/assets/125983433/b32e49aa-3f2b-4bce-9adc-23d2bbd9b208)
 ![javascript-#323330](https://github.com/divyam751/test/assets/125983433/3edd403b-9f06-48ac-8d5a-f8512583793a)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -33,7 +34,7 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 ![Canva Badge](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white)
 ![github](https://github.com/divyam751/divyam751/assets/125983433/a2767064-34d4-4f63-ba38-d2a464a91759)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![figma-#F24E1E](https://github.com/divyam751/test/assets/125983433/3e08a00f-e876-4af9-8c18-5d607a3fed31)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 
@@ -56,7 +57,7 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 **🚀 In Progress:**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -64,11 +65,13 @@ Hey there! I'm Shubhav Kumar, a passionate developer with a love for coding and 
 <br>
 
 ### 🚀 What I’m Working On
-🎯 Currently sharpening my React.js skills, mastering Tailwind CSS for elegant styling, and diving into scalable UI with MUI & DaisyUI to craft sleek, component-driven interfaces.
+🔭 Currently exploring advanced UI animations with Framer Motion and diving into API development with Node.js to create more dynamic, interactive web experiences.
 
-🤝 Open to teaming up on open-source web projects, frontend-rich apps with React.js / Next.js, or tackling exciting UI/UX challenges together!
+🌱 Working with React.js, Tailwind CSS, Node.js, and Framer Motion to build scalable, responsive, and visually engaging web applications.
 
-🧠 Continuously learning and adapting to the latest frontend trends, tools, and best practices in the ever-evolving dev world.
+📖 Final-year BCA student at CSJM University, Kanpur, with a strong focus on frontend development and user experience design.
+
+⚡ Fun fact: I love combining creativity with logic—designing interfaces and solving real-world problems through code is what drives me.
 
 
 
